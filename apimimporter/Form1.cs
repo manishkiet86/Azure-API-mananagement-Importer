@@ -255,7 +255,7 @@ namespace apimimporter
 
             if (comboapis2.Items.Count == 0)
             {
-                MessageBox.Show("click fetch details for api revisions.");
+                MessageBox.Show("click to fetch the details for api revisions.");
                 btngetapisrev.Focus();
                 return;
             }
