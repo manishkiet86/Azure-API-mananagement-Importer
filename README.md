@@ -48,5 +48,5 @@ This behavior is due to by design. So as a workaround we can trigger Http operat
 
 However, <b>APIMImporter</b> utility will help in this to get rid of this import timeout issues or you can use it independently too. 
 
-Happy Coding!
+Happy Coding!!
 ### Thank You!
